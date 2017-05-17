@@ -1,4 +1,29 @@
 /*Css stylesheet*/
+ul{
+	list-style-type: none;
+
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+li{
+	float: right;
+	height: 50px;
+}
+li a{
+	display: block;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+li a:hover{
+	text-decoration: underline;
+}
+#signin{
+	background-color: #006bbd
+	
+}
+
 .high{
 	font-size: 14px;
 	float: right;
