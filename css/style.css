@@ -1,0 +1,73 @@
+/*Css stylesheet*/
+.high{
+	font-size: 14px;
+	float: right;
+	margin: 15px 5px;
+	margin-right: 10px;
+	width: 71px;
+	height: 30px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 30px;
+
+}
+.middle{
+	position: absolute;
+	top: 200px;
+	left: 320px;
+	height: 250px;
+}
+
+
+.searchform{
+	margin-top: 10px;
+
+}
+.button{
+	width: 150px;
+	height: 30px;
+	margin-top: 20px;
+	margin-left: 25px; 
+	background-color: #b8b8b8;
+	color: #858181	
+}
+.button:hover{
+	width: 150px;
+	height: 30px;
+	margin-top: 20px;
+	margin-left: 25px; 
+	background-color: #e6e3e3;
+	color: #000000
+}
+.secondbutton:hover{
+	width: 150px;
+	height: 30px;
+	background-color: #e6e3e3;
+	color: #000000
+}
+.secondbutton{
+	width: 150px;
+	height: 30px;
+	background-color: #b8b8b8;
+	color: #858181	
+}
+
+
+.textbox{
+	float: left;
+	width: 350px;
+}
+.textbox:hover{
+	float: left;
+	width: 350px;
+text-shadow: 3px 2px white;
+
+}
+#signin{
+	background-color: #3366ff;
+
+	
+	border-radius: 2px;
+	width: 71px;
+	height: 30px;
+}
